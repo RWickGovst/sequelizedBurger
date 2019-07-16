@@ -1,8 +1,8 @@
 {
     "development": {
         "username": "root",
-        "password": "",
-        "database": "ssyb96pyg65tyrri",
+        "password": "Triumph2018!",
+        "database": "burgers_sequelize_db",
         "host": "127.0.0.1",
         "port": 3306,
         "dialect": "mysql"
