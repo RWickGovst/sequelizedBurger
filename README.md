@@ -1,4 +1,4 @@
-# Hamburgler
+# Sequelized Hamburgler
 
 ##### Eat a burger from the menu
 
@@ -12,4 +12,4 @@
 ![Home Page](./bobsBurgers.png)
 
 ### Herokku App Link
-https://greve-choucroute-33164.herokuapp.com# sequelizeBurger
+sequelizeBurger

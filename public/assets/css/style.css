@@ -1,0 +1,31 @@
+#images {
+    padding: 5px;
+}
+
+body {
+    background-color: coral;
+  }
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  button {
+    background-color: lightgray;
+  }
